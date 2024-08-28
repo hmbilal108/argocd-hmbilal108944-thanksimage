@@ -6,7 +6,7 @@
 
 
 
-
+I think we can ignore this.......................
 ### If you only want to run docker container
 ```
 docker run --name thankscontainer -itd -p 27016:80 hmbilal108944/thanksimage
